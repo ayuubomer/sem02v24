@@ -1,1 +1,5 @@
-# sem02v24
+# For å interpretere Python kildekode 
+
+```
+$ python3 reverse-python.py
+```
